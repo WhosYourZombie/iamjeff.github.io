@@ -237,9 +237,10 @@ body {
 }
 .bio p {
   width: 45%;
-  margin: 10px auto 0 auto;
+  margin: 0 auto;
   color: #fff;
   font-family: 'Arial', sans-serif; /* Change the font family */
+  padding-top: 10px; /* Add padding to the top */
 }
 p {
   margin-top: 0;
@@ -395,9 +396,10 @@ button:not(:disabled) {
   }
   .bio p {
     width: 80%;
-    margin: 10px auto 0 auto;
+    margin: 0 auto;
     color: #fff;
-    font-family: 'Arial', sans-serif; /* Change the font family */   
+    font-family: 'Arial', sans-serif; /* Change the font family */  
+    padding-top: 10px; /* Add padding to the top */ 
   }
   .bio span {
     font-size: 2em; /* Increase the font size */
